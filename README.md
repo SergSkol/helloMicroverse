@@ -42,4 +42,4 @@ Appriciated to anyone whose code was used*
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
